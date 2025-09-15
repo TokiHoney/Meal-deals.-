@@ -1,0 +1,18 @@
+{
+  "Appetizer": [
+    {"name": "Mozzarella Sticks", "price": 3, "source": "Fast Food", "img": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Mozzarella_sticks.jpg"},
+    {"name": "Chips & Salsa", "price": 2, "source": "Homemade", "img": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Chips_and_Salsa_%287063175661%29.jpg"},
+    ...
+  ],
+  "Entree": [
+    {"name": "Big Mac", "price": 5, "source": "Fast Food", "img": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Big_Mac_hamburger.jpg"},
+    {"name": "Grilled Cheese", "price": 2, "source": "Homemade", "img": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Grilled_Cheese_Sandwich.jpg"},
+    ...
+  ],
+  "Dessert": [
+    ...
+  ],
+  "Drink": [
+    ...
+  ]
+}
